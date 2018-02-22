@@ -2,4 +2,4 @@
 
 
 
-![demo][https://github.com/alinekborges/UIViewPropertyAnimator/blob/master/comments.gif]
+![demo][https://raw.githubusercontent.com/alinekborges/UIViewPropertyAnimator/master/comments.gif]
