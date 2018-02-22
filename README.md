@@ -1,3 +1,3 @@
 # UIViewPropertyAnimator
 
-![alt text][comments.gif]
+![alt text][https://github.com/alinekborges/UIViewPropertyAnimator/blob/master/comments.gif]
